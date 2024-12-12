@@ -2,7 +2,8 @@
 
 
 Comprova la versió instal·lada de Git, fes captura del terminal.
-![Texto alternativo](bfxdhjgç/Capturadepantallade2024-12-1208-25-19.png)
+![Texto alternativo]
+(https://github.com/Isildu/CanellasBeltranExamen2425/blob/main/bfxdhjg%C3%A7/Captura%20de%20pantalla%20de%202024-12-12%2008-25-19.png))
 Configura Git al teu sistema (opcional)
 
 
