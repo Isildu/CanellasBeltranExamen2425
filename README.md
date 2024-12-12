@@ -2,7 +2,7 @@
 
 
 Comprova la versió instal·lada de Git, fes captura del terminal.
-
+(./bfxdhjgç/Captura de pantalla de 2024-12-12 08-25-19.png)
 Configura Git al teu sistema (opcional)
 
 
